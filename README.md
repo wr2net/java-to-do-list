@@ -1,1 +1,7 @@
-# java-to-do-list
+# Java ToDo List
+
+## Run application:
+
+```bash
+mvn spring-boot:run
+```
